@@ -1,4 +1,4 @@
-## Welcome to Gtoyooka Pages
+## Welcome to toyooka_g3 Pages
 
 You can use the [editor on GitHub](https://github.com/gfd05600/yutaka_g3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
